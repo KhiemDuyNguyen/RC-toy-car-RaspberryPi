@@ -26,7 +26,8 @@ https://elinux.org/RPi-Cam-Web-Interface
 
 ### 4. Download the repo and see the .py files
 Make sure to understand 3 main script files mainRC.py, rc.py, and setupPins.py
-<img src="images/6.jpg">
+
+<img src="images/6.png">
 
 ### 5. Test your new car (take longest time)
 The process of tuning the wheeling time, servo module, and debug will take longest time (although it takes least works compared to the others).
