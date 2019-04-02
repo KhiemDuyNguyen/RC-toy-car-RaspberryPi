@@ -31,6 +31,7 @@ Make sure to understand 3 main script files mainRC.py, rc.py, and setupPins.py
 
 ### 5. Test your new car (take longest time)
 The process of tuning the wheeling time, servo module, and debug will take longest time (although it takes least works compared to the others).
+
 <img src="images/gif1.gif">
 
 ### 6. Assembly everything together with battery, camera... 
